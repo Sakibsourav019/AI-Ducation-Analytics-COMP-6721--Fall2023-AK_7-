@@ -1,7 +1,7 @@
 # AI-Ducation-Analytics-COMP-6721---AK_7-
 The official repository of group AK_7 for the project of AI Ducation Analytics needed for the Fall 2023's course Applied AI can be found in the link - https://github.com/Sakibsourav019/AI-Ducation-Analytics-COMP-6721---AK_7-/tree/main
 
-First of all, the zipfile contains dataset, readme file, python code, report and originality form
+First of all, the zip file submitted in Moodle contains dataset, readme file, python code, report and originality form
 
 Unzip the folder and run the .py file (the python file and dataset should be in the same folder while running the code)
 
